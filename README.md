@@ -1,7 +1,7 @@
 ## C assembler final project.
 This is the C final project for a course in the Open University.\
 This project is a simple assembler built with C, for a simple version of assembly.\
-The explanation and the assembly information is available in 'הנחיות מטלה מסכמת.pdf', under the last section 'ממן 14'. (note, it's long)
+The explanation and the assembly information is available in 'הנחיות מטלה מסכמת.pdf', under the last section 'ממן 14'.
 
 You may view examples in the 'tests/' folder.\
 The main file is 'prog.c'.
