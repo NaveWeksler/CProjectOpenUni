@@ -1,0 +1,3 @@
+
+char *getARE(char);
+char *getOpcode(char *);

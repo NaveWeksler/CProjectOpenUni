@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "linkedlist.h": "c",
+        "macro.h": "c",
+        "data.h": "c",
+        "firstiter.h": "c",
+        "util.h": "c",
+        "map.h": "c"
+    },
+    "cSpell.words": [
+        "endmcr"
+    ]
+}
